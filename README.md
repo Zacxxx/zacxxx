@@ -104,10 +104,9 @@ Lightweight explorations around interaction, tooling, and web native experiments
       <h3><a href="https://skhoot.xyz">Skhoot</a></h3>
       <p><b>Web native experiments</b> around interaction and tooling.</p>
       <ul>
-        <li>Fast prototyping and iteration</li>
-        <li>Interface primitives</li>
-        <li>Concept validation for future products</li>
         <li>Built during the Kiro january Hackathon</li>
+        <li>An intelligent desktop assistant</li>
+        <li>Concept validation for future products</li>
       </ul>
       <p>
         <a href="[https://skhoot.xyz](https://tristo-bit.github.io/Skhoot/)"><img alt="Visit" src="https://img.shields.io/badge/Visit-skhoot.xyz-111111?style=flat"></a>
