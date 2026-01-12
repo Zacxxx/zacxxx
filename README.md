@@ -184,12 +184,12 @@ A public, minimal roadmap. Items move when they ship.
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Zacxxx&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=zacxxx&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
     height="160"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zacxxx&theme=dark&hide_border=true&layout=compact&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacxxx&theme=dark&hide_border=true&layout=compact&langs_count=8"
     height="160"
     alt="Top languages"
   />
@@ -197,7 +197,7 @@ A public, minimal roadmap. Items move when they ship.
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Zacxxx&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=zacxxx&theme=dark&hide_border=true"
     height="180"
     alt="Streak stats"
   />
@@ -205,7 +205,7 @@ A public, minimal roadmap. Items move when they ship.
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Zacxxx&theme=darkhub&no-frame=true&margin-w=8"
+    src="https://github-profile-trophy.vercel.app/?username=zacxxx&theme=darkhub&no-frame=true&margin-w=8"
     alt="Trophies"
   />
 </div>
