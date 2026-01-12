@@ -5,7 +5,7 @@
   
 
   <h1>Zachari Pinson Tilche</h1>
-  <p><b>Founder</b> at <a href="https://moebius.quest">Moebius</a> and <a href="https://penrose.example">Penrose NPO</a></p>
+  <p><b>Founder</b> at <a href="https://moebius.quest">Moebius</a> and <a href="https://penrose.quest">Penrose NPO</a></p>
   <p>Building systems at the intersection of <b>AI</b>, <b>organizational design</b>, and <b>infrastructure</b>.</p>
 
   <p>
@@ -157,21 +157,57 @@ The twin is only useful if it is:
 
 ---
 
+## Roadmap
+
+A public, minimal roadmap. Items move when they ship.
+
+### Moebius
+- [ ] **Blueprint v0**: core org model, roles, processes, projects, traceability
+- [ ] **Project health metrics v0**: baseline KPIs, scoring, and explanations
+- [ ] **Decision log**: decision objects with rationale, alternatives, and outcome tracking
+- [ ] **Twin interpreter**: convert artifacts into structured state with citations
+- [ ] **Evaluation harness**: regression tests for AI behavior and metric stability
+
+### Skhoot
+- [ ] **Interaction lab**: a set of small prototypes with writeups and learnings
+- [ ] **Tooling experiments**: file navigation, search, and “promptable” utilities
+- [ ] **Publishing pipeline**: fast deploys, changelog, and demo archive
+
+### Infrastructure
+- [ ] **Rust service template**: observability, migrations, auth boundaries, CI
+- [ ] **Data model discipline**: versioning, schema evolution, and auditability
+- [ ] **Model gateway**: local and hosted providers behind one interface
+
+---
+
 ## Stats
 
 <div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Zacxxx&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+    height="160"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zacxxx&theme=dark&hide_border=true&layout=compact&langs_count=8"
+    height="160"
+    alt="Top languages"
+  />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Zacxxx&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zacxxx&theme=dark&hide_border=true&layout=compact" height="160" alt="Top languages"/>
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Zacxxx&theme=dark&hide_border=true"
+    height="180"
+    alt="Streak stats"
+  />
+</div>
 
-  <br/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Zacxxx&theme=dark&hide_border=true" height="180" alt="Streak stats"/>
-
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Zacxxx&theme=transparent&no-frame=true&margin-w=8" alt="Trophies"/>
-
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Zacxxx&theme=darkhub&no-frame=true&margin-w=8"
+    alt="Trophies"
+  />
 </div>
 
 ---
