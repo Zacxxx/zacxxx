@@ -155,28 +155,6 @@ The twin is only useful if it is:
 
 </details>
 
----
-
-## Roadmap
-
-A public, minimal roadmap. Items move when they ship.
-
-### Moebius
-- [ ] **Blueprint v0**: core org model, roles, processes, projects, traceability
-- [ ] **Project health metrics v0**: baseline KPIs, scoring, and explanations
-- [ ] **Decision log**: decision objects with rationale, alternatives, and outcome tracking
-- [ ] **Twin interpreter**: convert artifacts into structured state with citations
-- [ ] **Evaluation harness**: regression tests for AI behavior and metric stability
-
-### Skhoot
-- [ ] **Interaction lab**: a set of small prototypes with writeups and learnings
-- [ ] **Tooling experiments**: file navigation, search, and “promptable” utilities
-- [ ] **Publishing pipeline**: fast deploys, changelog, and demo archive
-
-### Infrastructure
-- [ ] **Rust service template**: observability, migrations, auth boundaries, CI
-- [ ] **Data model discipline**: versioning, schema evolution, and auditability
-- [ ] **Model gateway**: local and hosted providers behind one interface
 
 ---
 
