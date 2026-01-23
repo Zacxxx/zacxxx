@@ -1,7 +1,9 @@
 <div align="center">
 
   
-  <img src="https://i.imgur.com/ZvKMfME.jpeg" alt="Banner" width="100%"/>
+<a href="https://github.com/tristo-bit/Skhoot">
+  <img src="https://i.imgur.com/ZvKMfME.jpeg" alt="Skhoot Banner" width="100%">
+</a>
   
 
   <h1>Zachari Pinson Tilche</h1>
