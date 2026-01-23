@@ -173,23 +173,3 @@ The twin is only useful if it is:
 * Evaluation and measurement pipelines for AI behavior
 
 </details>
-
-
----
-
-## Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zacxxx&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
-    height="160"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacxxx&theme=dark&hide_border=true&layout=compact&langs_count=8"
-    height="160"
-    alt="Top languages"
-  />
-</div>
-
-
