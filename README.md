@@ -175,24 +175,4 @@ The twin is only useful if it is:
   />
 </div>
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=zacxxx&theme=dark&hide_border=true"
-    height="180"
-    alt="Streak stats"
-  />
-</div>
 
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=zacxxx&theme=darkhub&no-frame=true&margin-w=8"
-    alt="Trophies"
-  />
-</div>
-
----
-
-## Contact
-
-* Email: <a href="mailto:founders@moebius.quest">founders@moebius.quest</a>
-* LinkedIn: <a href="https://linkedin.com/in/zach-pinson-tilche-828674245">zach-pinson-tilche-828674245</a>
