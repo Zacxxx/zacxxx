@@ -40,14 +40,14 @@
 
 ## Current work
 
-### moebius.quest
+### [moebius.quest](https://moebius.quest)
 An organizational operating system focused on digital twins, decision intelligence, and project health metrics.
 
 * Emphasis on structure, traceability, and long term scalability
 * Designed for durable decision making, not short term automation hacks
 * Built to expose organizational reality through models, metrics, and constraints
 
-### [skhoot.xyz](tristo-bit.github.io/Skhoot/)
+### [skhoot.xyz](https://tristo-bit.github.io/Skhoot/)
 Lightweight explorations around interaction, tooling, and web native experiments.
 
 * Small, fast iterations
