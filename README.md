@@ -47,12 +47,29 @@ An organizational operating system focused on digital twins, decision intelligen
 * Designed for durable decision making, not short term automation hacks
 * Built to expose organizational reality through models, metrics, and constraints
 
-### skhoot.xyz
+### [skhoot.xyz](tristo-bit.github.io/Skhoot/)
 Lightweight explorations around interaction, tooling, and web native experiments.
 
 * Small, fast iterations
 * Interface experiments
 * Tooling concepts that can graduate into larger systems
+
+---
+
+## Stats
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zacxxx&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+    height="160"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacxxx&theme=dark&hide_border=true&layout=compact&langs_count=8"
+    height="160"
+    alt="Top languages"
+  />
+</div>
 
 ---
 
