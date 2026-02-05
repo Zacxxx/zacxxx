@@ -1,38 +1,60 @@
 <div align="center">
 
-  
 <a href="https://github.com/tristo-bit/Skhoot">
   <img src="https://i.imgur.com/ZvKMfME.jpeg" alt="Skhoot Banner" width="100%">
 </a>
-  
 
-  <h1>Zachari Pinson Tilche</h1>
-  <p><b>Founder</b> at <a href="https://moebius.quest">Moebius</a> and <a href="https://penrose.quest">Penrose NPO</a></p>
-  <p>Building systems at the intersection of <b>AI</b>, <b>organizational design</b>, and <b>infrastructure</b>.</p>
+<h1>Zachari Pinson Tilche</h1>
 
-  <p>
-    <a href="https://moebius.quest"><img alt="Moebius" src="https://img.shields.io/badge/Moebius-moebius.quest-111111?style=flat&logo=vercel&logoColor=white"></a>
-    <a href="https://skhoot.xyz"><img alt="Skhoot" src="https://img.shields.io/badge/Skhoot-skhoot.xyz-111111?style=flat&logo=googlechrome&logoColor=white"></a>
-    <a href="https://linkedin.com/in/zach-pinson-tilche-828674245"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:founders@moebius.quest"><img alt="Email" src="https://img.shields.io/badge/Email-founders%40moebius.quest-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  </p>
+<p>
+  <b>Founder</b> at 
+  <a href="https://moebius.quest">Moebius</a> and 
+  <a href="https://penrose.quest">Penrose NPO</a>
+</p>
 
-  <p>
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1F3A?style=flat&logo=typescript&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-1E3A8A?style=flat&logo=python&logoColor=white">
-    <img alt="Tauri" src="https://img.shields.io/badge/Tauri-0B1220?style=flat&logo=tauri&logoColor=white">
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-111827?style=flat&logo=vite&logoColor=white">
-    <img alt="Postgres" src="https://img.shields.io/badge/Postgres-0B1220?style=flat&logo=postgresql&logoColor=white">
-  </p>
+<p>
+  Designing and operating systems at the intersection of 
+  <b>AI</b>, <b>organizational design</b>, and <b>infrastructure</b>.
+</p>
 
-  <p>
-    <a href="#current-work">Current work</a> ·
-    <a href="#technical-focus">Technical focus</a> ·
-    <a href="#principles">Principles</a> ·
-    <a href="#selected-builds">Selected builds</a> ·
-    <a href="#stats">Stats</a>
-  </p>
+<p>
+  <a href="https://moebius.quest">
+    <img alt="Moebius" src="https://img.shields.io/badge/Moebius-moebius.quest-111111?style=flat&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://skhoot.xyz">
+    <img alt="Skhoot" src="https://img.shields.io/badge/Skhoot-skhoot.xyz-111111?style=flat&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/zach-pinson-tilche-828674245">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:founders@moebius.quest">
+    <img alt="Email" src="https://img.shields.io/badge/Email-founders%40moebius.quest-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1F3A?style=flat&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-1E3A8A?style=flat&logo=python&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0B1220?style=flat&logo=docker&logoColor=white">
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-0B1220?style=flat&logo=postgresql&logoColor=white">
+</p>
+
+<p>
+  Containerized-first architecture · 
+  Local CI/CD · 
+  Dev/Prod parity · 
+  Local-first AI systems · 
+  Reproducible infra
+</p>
+
+<p>
+  <a href="#current-work">Current work</a> ·
+  <a href="#technical-focus">Technical focus</a> ·
+  <a href="#principles">Principles</a> ·
+  <a href="#selected-builds">Selected builds</a> ·
+  <a href="#stats">Stats</a>
+</p>
 
 </div>
 
