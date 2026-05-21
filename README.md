@@ -50,6 +50,7 @@
 
 <p>
   <a href="#current-work">Current work</a> ·
+  <a href="#open-source-contribution-trail">Open source</a> ·
   <a href="#technical-focus">Technical focus</a> ·
   <a href="#principles">Principles</a> ·
   <a href="#selected-builds">Selected builds</a> ·
@@ -57,6 +58,19 @@
 </p>
 
 </div>
+
+---
+
+## Open source contribution trail
+
+Public proof links for recent AI tooling and TUI ecosystem work:
+
+| Project | Proof |
+|---------|-------|
+| [ratatui/ratatui](https://github.com/ratatui/ratatui) | [PR #2555](https://github.com/ratatui/ratatui/pull/2555) · [fork](https://github.com/Zacxxx/ratatui) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [PR #84995](https://github.com/openclaw/openclaw/pull/84995) · [fork](https://github.com/Zacxxx/openclaw) |
+| [openai/codex](https://github.com/openai/codex) | [fork](https://github.com/Zacxxx/codex) |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | [fork](https://github.com/Zacxxx/pi) |
 
 ---
 
