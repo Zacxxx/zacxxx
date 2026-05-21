@@ -1,28 +1,29 @@
 <div align="center">
 
-<a href="https://github.com/tristo-bit/Skhoot">
-  <img src="https://i.imgur.com/ZvKMfME.jpeg" alt="Skhoot Banner" width="100%">
+<a href="#reson">
+  <img src="./assets/reson-banner.svg" alt="RESON - emotionally steerable generative audio" width="100%">
 </a>
 
 <h1>Zachari Pinson Tilche</h1>
 
 <p>
-  <b>Founder</b> at 
-  <a href="https://moebius.quest">Moebius</a> and 
+  <b>Founder</b> at
+  <a href="#reson">RESON</a>,
+  <a href="https://moebius.quest">Moebius</a>, and
   <a href="https://penrose.quest">Penrose NPO</a>
 </p>
 
 <p>
-  Designing and operating systems at the intersection of 
-  <b>AI</b>, <b>organizational design</b>, and <b>infrastructure</b>.
+  Building emotionally steerable <b>generative audio</b>, local-first
+  <b>AI systems</b>, and infrastructure for measurable creative workflows.
 </p>
 
 <p>
   <a href="https://moebius.quest">
     <img alt="Moebius" src="https://img.shields.io/badge/Moebius-moebius.quest-111111?style=flat&logo=vercel&logoColor=white">
   </a>
-  <a href="https://skhoot.xyz">
-    <img alt="Skhoot" src="https://img.shields.io/badge/Skhoot-skhoot.xyz-111111?style=flat&logo=googlechrome&logoColor=white">
+  <a href="#reson">
+    <img alt="RESON" src="https://img.shields.io/badge/RESON-generative%20audio-FF6A00?style=flat&logo=soundcharts&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/zach-pinson-tilche-828674245">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
@@ -41,10 +42,10 @@
 </p>
 
 <p>
-  Containerized-first architecture · 
-  Local CI/CD · 
-  Dev/Prod parity · 
-  Local-first AI systems · 
+  Generative audio ·
+  Real-time steering ·
+  Emotional control surfaces ·
+  Local-first AI systems ·
   Reproducible infra
 </p>
 
@@ -76,19 +77,19 @@ Public proof links for recent AI tooling and TUI ecosystem work:
 
 ## Current work
 
+### RESON
+Emotionally steerable generative audio for continuous, personalized sound flows.
+
+* Real-time mood steering across Focus, Energy, Calm, and Joy
+* Continuous audio generation instead of static playlist selection
+* Browser audio reliability, DJ-style transitions, and exportable listening sessions
+
 ### [moebius.quest](https://moebius.quest)
 An organizational operating system focused on digital twins, decision intelligence, and project health metrics.
 
 * Emphasis on structure, traceability, and long term scalability
 * Designed for durable decision making, not short term automation hacks
 * Built to expose organizational reality through models, metrics, and constraints
-
-### [skhoot.xyz](https://tristo-bit.github.io/Skhoot/)
-Lightweight explorations around interaction, tooling, and web native experiments.
-
-* Small, fast iterations
-* Interface experiments
-* Tooling concepts that can graduate into larger systems
 
 ---
 
@@ -105,6 +106,7 @@ Lightweight explorations around interaction, tooling, and web native experiments
 
 **Domains**
 * Applied AI systems and orchestration
+* Generative audio and realtime interaction
 * Distributed backends and data models
 * Product and organizational metrics
 * Web applications with strong architectural constraints
@@ -131,6 +133,18 @@ Lightweight explorations around interaction, tooling, and web native experiments
 <table>
   <tr>
     <td valign="top" width="50%">
+      <h3>RESON</h3>
+      <p><b>Emotionally steerable generative audio</b> for realtime mood-shaped listening.</p>
+      <ul>
+        <li>Continuous adaptive sound flow</li>
+        <li>Realtime emotional steering and feedback</li>
+        <li>DJ transitions, browser playback, and export workflows</li>
+      </ul>
+      <p>
+        <a href="#reson"><img alt="RESON" src="https://img.shields.io/badge/Focus-RESON-FF6A00?style=flat"></a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
       <h3><a href="https://moebius.quest">Moebius</a></h3>
       <p><b>Organizational OS</b> for digital twins, decision intelligence, and project health metrics.</p>
       <ul>
@@ -142,24 +156,22 @@ Lightweight explorations around interaction, tooling, and web native experiments
         <a href="https://moebius.quest"><img alt="Visit" src="https://img.shields.io/badge/Visit-moebius.quest-111111?style=flat"></a>
       </p>
     </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://skhoot.xyz">Skhoot</a></h3>
-      <p><b>Web native experiments</b> around interaction and tooling.</p>
-      <ul>
-        <li>Built during the Kiro january Hackathon</li>
-        <li>An intelligent desktop assistant</li>
-        <li>Concept validation for future products</li>
-      </ul>
-      <p>
-        <a href="[https://skhoot.xyz](https://tristo-bit.github.io/Skhoot/)"><img alt="Visit" src="https://img.shields.io/badge/Visit-skhoot.xyz-111111?style=flat"></a>
-      </p>
-    </td>
   </tr>
 </table>
 
 ---
 
 ## Deep dives
+
+<details>
+  <summary><b>RESON thesis</b></summary>
+
+* The listener should shape a state, not browse a catalog.
+* The interface should expose emotional intent as a controllable signal.
+* Generated audio should remain continuous, steerable, and explainable through session data.
+* The long-term model is contextual generation informed by psychoacoustics and feedback loops.
+
+</details>
 
 <details>
   <summary><b>Moebius philosophy</b></summary>
