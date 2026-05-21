@@ -69,8 +69,8 @@ Public proof links for recent AI tooling and TUI ecosystem work:
 |---------|-------|
 | [ratatui/ratatui](https://github.com/ratatui/ratatui) | [PR #2555](https://github.com/ratatui/ratatui/pull/2555) · [fork](https://github.com/Zacxxx/ratatui) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [PR #84995](https://github.com/openclaw/openclaw/pull/84995) · [fork](https://github.com/Zacxxx/openclaw) |
-| [openai/codex](https://github.com/openai/codex) | [fork](https://github.com/Zacxxx/codex) |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | [fork](https://github.com/Zacxxx/pi) |
+| [openai/codex](https://github.com/openai/codex) | [Issue #23887](https://github.com/openai/codex/issues/23887) · [fork](https://github.com/Zacxxx/codex) |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | [Issue #4868](https://github.com/earendil-works/pi/issues/4868) · [fork](https://github.com/Zacxxx/pi) |
 
 ---
 
