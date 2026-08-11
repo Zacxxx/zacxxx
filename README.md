@@ -1,29 +1,19 @@
 <div align="center">
 
-<a href="#reson">
-  <img src="./assets/reson-banner.svg" alt="RESON - emotionally steerable generative audio" width="100%">
-</a>
-
 <h1>Zachari Pinson Tilche</h1>
 
 <p>
-  <b>Founder</b> at
-  <a href="#reson">RESON</a>,
-  <a href="https://moebius.quest">Moebius</a>, and
-  <a href="https://penrose.quest">Penrose NPO</a>
+  <b>Building open-source creative tools, local-first software, and human-supervised AI systems.</b>
 </p>
 
 <p>
-  Building emotionally steerable <b>generative audio</b>, local-first
-  <b>AI systems</b>, and infrastructure for measurable creative workflows.
+  Currently working across audio software, Codex extensions, desktop app infrastructure,
+  and game tooling.
 </p>
 
 <p>
   <a href="https://moebius.quest">
     <img alt="Moebius" src="https://img.shields.io/badge/Moebius-moebius.quest-111111?style=flat&logo=vercel&logoColor=white">
-  </a>
-  <a href="#reson">
-    <img alt="RESON" src="https://img.shields.io/badge/RESON-generative%20audio-FF6A00?style=flat&logo=soundcharts&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/zach-pinson-tilche-828674245">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
@@ -34,177 +24,77 @@
 </p>
 
 <p>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1F3A?style=flat&logo=typescript&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-1E3A8A?style=flat&logo=python&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0B1220?style=flat&logo=docker&logoColor=white">
-  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-0B1220?style=flat&logo=postgresql&logoColor=white">
-</p>
-
-<p>
-  Generative audio ·
-  Real-time steering ·
-  Emotional control surfaces ·
-  Local-first AI systems ·
-  Reproducible infra
-</p>
-
-<p>
-  <a href="#current-work">Current work</a> ·
-  <a href="#open-source-contribution-trail">Open source</a> ·
-  <a href="#technical-focus">Technical focus</a> ·
-  <a href="#principles">Principles</a> ·
-  <a href="#selected-builds">Selected builds</a> ·
-  <a href="#stats">Stats</a>
 </p>
 
 </div>
 
 ---
 
-## Open source contribution trail
+## Latest projects
 
-Public proof links for recent AI tooling and TUI ecosystem work:
+### [CanWeSynth](https://github.com/Zacxxx/canwesynth)
 
-| Project | Proof |
-|---------|-------|
-| [ratatui/ratatui](https://github.com/ratatui/ratatui) | [PR #2555](https://github.com/ratatui/ratatui/pull/2555) · [fork](https://github.com/Zacxxx/ratatui) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [PR #84995](https://github.com/openclaw/openclaw/pull/84995) · [fork](https://github.com/Zacxxx/openclaw) |
-| [openai/codex](https://github.com/openai/codex) | [Issue #23887](https://github.com/openai/codex/issues/23887) · [fork](https://github.com/Zacxxx/codex) |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | [Issue #4868](https://github.com/earendil-works/pi/issues/4868) · [fork](https://github.com/Zacxxx/pi) |
+An open, AI-native wavetable instrument platform for Linux, Windows, VST3, CLAP, and standalone use.
 
----
+- Playable real-time-safe DSP core with polyphony, envelopes, filtering, and deterministic rendering tests
+- Versioned `.cwsynth.json` instrument format shared by musicians, the CLI, and coding agents
+- Codex plugin and MCP tools for constrained, reviewable instrument editing
 
-## Current work
+### [STS2 Vanilla Expanded Dungeons](https://github.com/Zacxxx/sts2-vanilla-expanded-dungeons)
 
-### RESON
-Emotionally steerable generative audio for continuous, personalized sound flows.
+An extensible dungeon-map framework for Slay the Spire 2, with a separate Ashen Chapel example mod.
 
-* Real-time mood steering across Focus, Energy, Calm, and Joy
-* Continuous audio generation instead of static playlist selection
-* Browser audio reliability, DJ-style transitions, and exportable listening sessions
+- Native map travel, encounters, rewards, and exact act-map restoration
+- Save support and an API for third-party dungeon definitions
+- Built in C# against Godot and BaseLib
 
-### [moebius.quest](https://moebius.quest)
-An organizational operating system focused on digital twins, decision intelligence, and project health metrics.
+### [Moebius Boilerplate](https://github.com/Zacxxx/moebius-boilerplate)
 
-* Emphasis on structure, traceability, and long term scalability
-* Designed for durable decision making, not short term automation hacks
-* Built to expose organizational reality through models, metrics, and constraints
+A production-minded foundation for compact, local-first Tauri desktop applications.
 
----
+- React 19, TypeScript, Rust, SQLite, and a reusable light/dark design system
+- Optional Supabase identity and sync without giving up local-first operation
+- Codex App Server, local MCP tooling, cross-platform CI, releases, and visual audits
 
+### [Teach](https://github.com/Zacxxx/teach)
 
+An open-source Codex plugin that turns a consented workflow recording into a reviewable, reusable skill.
 
----
-
-## Technical focus
-
-**Languages**
-* Rust (primary)
-* TypeScript
-* Python
-
-**Domains**
-* Applied AI systems and orchestration
-* Generative audio and realtime interaction
-* Distributed backends and data models
-* Product and organizational metrics
-* Web applications with strong architectural constraints
-
-**Stack**
-* Rust backends
-* Tauri, Vite, modern web tooling
-* AI model integration (local and hosted)
+- Cross-platform recording architecture for Linux, macOS, and Windows
+- Local artifacts, editable process drafts, explicit consent, and versioned publishing
+- Built for OpenAI Build Week 2026 with a deterministic demo and evaluation suite
 
 ---
 
-## Principles
+## More recent builds
 
-* Clarity over convenience
-* Traceability over vibes
-* Constraints as a feature
-* Systems that scale in time, not just in traffic
-* Metrics that explain, not merely report
-
----
-
-## Selected builds
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>RESON</h3>
-      <p><b>Emotionally steerable generative audio</b> for realtime mood-shaped listening.</p>
-      <ul>
-        <li>Continuous adaptive sound flow</li>
-        <li>Realtime emotional steering and feedback</li>
-        <li>DJ transitions, browser playback, and export workflows</li>
-      </ul>
-      <p>
-        <a href="#reson"><img alt="RESON" src="https://img.shields.io/badge/Focus-RESON-FF6A00?style=flat"></a>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://moebius.quest">Moebius</a></h3>
-      <p><b>Organizational OS</b> for digital twins, decision intelligence, and project health metrics.</p>
-      <ul>
-        <li>Digital twin modeling for teams and processes</li>
-        <li>Decision intelligence with traceable rationale</li>
-        <li>Project health metrics built into the core</li>
-      </ul>
-      <p>
-        <a href="https://moebius.quest"><img alt="Visit" src="https://img.shields.io/badge/Visit-moebius.quest-111111?style=flat"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | What it explores |
+| --- | --- |
+| [DossierAgent](https://github.com/Zacxxx/DossierAgent) | A supervised housing-search agent and rental dossier command center that keeps people in control of sensitive actions. |
+| [Saros](https://github.com/Zacxxx/saros-project) | An isometric voxel RPG built with Bevy, Tauri, React, SpacetimeDB, procedural worlds, and AI-powered NPCs. |
+| [SpireForge](https://github.com/Zacxxx/SpireForge) | A browser-based studio for authoring and exporting Slay the Spire mod projects. |
 
 ---
 
-## Deep dives
+## Current focus
 
-<details>
-  <summary><b>RESON thesis</b></summary>
+- Audio DSP, instruments, and plugin engineering
+- Local-first desktop products with Rust, Tauri, React, and SQLite
+- Human-in-control AI agents, Codex plugins, MCP tools, and evaluations
+- Game systems, modding frameworks, and creator tooling
 
-* The listener should shape a state, not browse a catalog.
-* The interface should expose emotional intent as a controllable signal.
-* Generated audio should remain continuous, steerable, and explainable through session data.
-* The long-term model is contextual generation informed by psychoacoustics and feedback loops.
+I like systems that are inspectable, reversible, measurable, and useful without requiring AI or a network connection.
 
-</details>
+---
 
-<details>
-  <summary><b>Moebius philosophy</b></summary>
+## Open-source contributions
 
-* The goal is not to automate people.
-* The goal is to make organizational state explicit, inspectable, and stable.
-* Systems fail when decisions are untraceable and metrics are disconnected from structure.
-* Moebius treats structure as a first class artifact, then builds AI around it.
-
-</details>
-
-<details>
-  <summary><b>What I mean by “digital twins”</b></summary>
-
-A digital twin here is a structured representation of an organizational entity.
-
-* People, roles, teams
-* Processes, projects, constraints
-* Decisions, rationales, measurable health indicators
-
-The twin is only useful if it is:
-* grounded in real artifacts
-* consistent over time
-* able to explain why the system recommends something
-
-</details>
-
-<details>
-  <summary><b>Tooling interests</b></summary>
-
-* Developer experience that reduces ambiguity
-* Interfaces that enforce clear input and clear output
-* Local first ergonomics where it matters
-* Evaluation and measurement pipelines for AI behavior
-
-</details>
+- [ratatui/ratatui — PR #2555](https://github.com/ratatui/ratatui/pull/2555)
+- [openclaw/openclaw — PR #84995](https://github.com/openclaw/openclaw/pull/84995)
+- [openai/codex — Issue #23887](https://github.com/openai/codex/issues/23887)
+- [earendil-works/pi — Issue #4868](https://github.com/earendil-works/pi/issues/4868)
